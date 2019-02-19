@@ -13,3 +13,5 @@ if country == '美國':
         print('可以考駕照了！')
     else:
         print('年紀太小哦。')
+else:
+    print('一定要選台灣或美國唷。')
